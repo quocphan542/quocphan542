@@ -2,10 +2,11 @@
 ### **Product-Minded Java Backend Developer & DevOps Enthusiast**
 📍 Ho Chi Minh City, Vietnam | 📧 Quocphan542@gmail.com | 📱 0862514331  
 🔗 [LinkedIn](https://www.linkedin.com/in/quoc-phan-dinh-4a2521209/) | 💻 [GitHub](https://github.com/quocphan542)
-quoc-profile.lovable.app
+
 ---
 
 ## 🎯 PROFESSIONAL SUMMARY
+https://quoc-profile.lovable.app/
 > A solution-driven and product-minded Backend Engineer with a solid foundation in Java enterprise technologies[cite: 1]. Exceptional strength in architecting robust database schemas, engineering optimized business logic engines, and resolving high-concurrency race conditions. Proven hands-on capability in managing full-cycle deployments (Docker, Nginx, CI/CD) to deliver secure, high-performance, and production-ready enterprise software.
 
 ---
